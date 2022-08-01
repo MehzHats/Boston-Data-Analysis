@@ -16,3 +16,19 @@ The following questions are the main focus of this project:
 3. Two parts.
     - What are the least busy times of the year to visit Boston?
     - By how low do the prices get?
+
+## Libraries
+I have used Python 3 for this project. Following is the list libraries I used for the completion of this project.
+
+1. Numpy
+2. Pandas
+3. Seaborn
+4. Matplotlib
+
+## Licensing, Authors, and Acknowledgements
+Any user who wants to use this code must give credit to Udacity courses for some code ideas, and to kaggle/AirBnb for the data. The Licensing of data and other descriptive information can be found at the [Kaggle dataset page](https://www.kaggle.com/airbnb/boston).
+
+## How to run the code
+Fill in kaggle username and API key in the line `!cd ~/.kaggle/ && echo '{"username":"","key":""}' > "./kaggle.json"`.
+<img width="779" alt="Screen Shot 2022-08-01 at 1 39 48 PM" src="https://user-images.githubusercontent.com/108787643/182120443-cc10de83-357b-4e76-a862-14cad0d29b97.png">
+
